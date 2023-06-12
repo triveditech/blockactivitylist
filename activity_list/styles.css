@@ -1,0 +1,8 @@
+.block_activity_list h5 {
+    color: #46002B;
+}
+
+.block_activity_list .content .list li a {
+    font-size: 14px;
+    text-decoration: none;
+}
